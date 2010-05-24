@@ -1,4 +1,4 @@
-Package: com.chpwn.cycriptloader
+Package: cycriptloader
 Name: CycriptLoader
 Depends: mobilesubstrate, cycript
 Version: 0.0.1
