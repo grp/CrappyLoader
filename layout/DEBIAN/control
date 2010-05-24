@@ -1,0 +1,9 @@
+Package: com.chpwn.cycriptloader
+Name: CycriptLoader
+Depends: mobilesubstrate, cycript
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: MobileLoader clone for Cycript.
+Maintainer: chpwn
+Author: chpwn
+Section: Development
